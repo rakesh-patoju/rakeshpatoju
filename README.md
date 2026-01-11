@@ -21,16 +21,13 @@ Passionate about implementing CI/CD pipelines and DevOps best practices to strea
 
 🛠️ Technical Expertise
 
-<div align="center">
-Category	Technologies & Tools
-Programming Languages	Java (8, 11, 17), JavaScript, SQL
-Frameworks & Libraries	Spring Boot, Spring MVC, Spring Security, Hibernate/JPA, Lombok
-Architecture & Design	Microservices, RESTful APIs, Event-Driven Architecture, Clean & Scalable Design
-Cloud & DevOps	AWS (EC2, S3, RDS, Lambda), Docker, Kubernetes, Jenkins, CI/CD Pipelines, Linux
-Databases	MySQL, PostgreSQL, SQL Server, MongoDB, Redis
-Messaging & Integration	Kafka, RabbitMQ, REST & SOAP Web Services
-Tools & Utilities	Git, Maven, Gradle, Postman, Swagger, IntelliJ IDEA, SonarQube
-</div>
+Programming Languages: Java (8, 11, 17), JavaScript, SQL
+Frameworks & Libraries: Spring Boot, Spring MVC, Spring Security, Hibernate/JPA, Lombok
+Architecture & Design: Microservices, RESTful APIs, Event-Driven Architecture, Clean & Scalable Design
+Cloud & DevOps: AWS (EC2, S3, RDS, Lambda), Docker, Kubernetes, Jenkins, CI/CD Pipelines, Linux
+Databases: MySQL, PostgreSQL, SQL Server, MongoDB, Redis
+Messaging & Integration: Kafka, RabbitMQ, REST & SOAP Web Services
+Tools & Utilities: Git, Maven, Gradle, Postman, Swagger, IntelliJ IDEA, SonarQube
 
 ---
 
