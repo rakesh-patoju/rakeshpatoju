@@ -1,7 +1,7 @@
 <!-- ===================== PROFILE HEADER ===================== -->
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,100:1f6feb&text=Rakesh%20Patoju&fontSize=52&fontColor=ffffff&desc=Senior%20Software%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Microservices&descSize=18&descAlignY=68" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,100:1f6feb&text=Rakesh%20Patoju&fontSize=52&fontColor=ffffff&desc=Software%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Microservices&descSize=18&descAlignY=68" />
 
 📍 Hyderabad, India • 💼 Immediate Joiner  
 
