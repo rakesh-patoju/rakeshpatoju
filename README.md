@@ -1,148 +1,154 @@
-<!-- Header with Professional Background -->
+<!-- ===================== PROFILE HEADER ===================== -->
 <div align="center">
 
-![GitHub Profile Header](https://via.placeholder.com/1200x300/0d1117/ffffff?text=Rakesh+Patoju+%7C+Software+Developer+%7C+Java+%26+Spring+Boot+Specialist)
-<!-- Replace with actual image URL or keep as is -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=260&section=header&text=Rakesh%20Patoju&fontSize=52&fontColor=ffffff&desc=Senior%20Software%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descSize=20&descAlignY=65" />
 
-# Rakesh Patoju
+### 🚀 Senior Software Developer | Java | Spring Boot | Microservices
 
-**Senior Software Developer | Java & Spring Boot Expert | Microservices Architect**
+📍 Hyderabad, India • 💼 Immediate Joiner  
 
-📍 Hyderabad, Telangana | 🚀 Immediate Joiner Available  
-📧 rakeshpatoju113@gmail.com | 📱 +91 8501941570  
+📧 **rakeshpatoju113@gmail.com** • 📱 **+91 8501941570**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/rakesh-patoju-847b88179)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:rakeshpatoju113@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/rakesh-patoju)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat&logo=Google-Chrome&logoColor=white)](https://github.com/rakesh-patoju)
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rakesh-patoju-847b88179)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rakesh-patoju)
 
 </div>
 
-## 📋 **Profile Summary**
+---
 
-Software Developer with **3+ years** of professional experience in designing and developing enterprise-grade applications using **Java, Spring Boot, and Microservices architecture**. Proven expertise in building scalable backend systems, implementing RESTful APIs, and deploying containerized solutions using **Docker and Kubernetes**. Strong background in **CI/CD automation** and cloud infrastructure.
+## 👨‍💻 About Me
+
+Experienced **Software Developer with 3+ years** of expertise in building **scalable, high-performance backend systems** using **Java, Spring Boot, and Microservices architecture**.
+
+I specialize in:
+- Designing **enterprise-grade applications**
+- Developing **secure RESTful APIs**
+- Building **cloud-native & containerized solutions**
+- Implementing **CI/CD pipelines and DevOps best practices**
+
+I enjoy solving real-world problems with **clean architecture, performance optimization, and automation**.
 
 ---
 
-## 🛠 **Technical Stack**
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | Java 8/11/17, JavaScript |
-| **Backend Frameworks** | Spring Boot, Spring MVC, Spring Security, Hibernate/JPA |
-| **Architecture** | Microservices, REST APIs, Event-Driven Architecture |
+| Category | Skills |
+|--------|-------|
+| **Languages** | Java (8, 11, 17), JavaScript |
+| **Frameworks** | Spring Boot, Spring MVC, Spring Security, Hibernate/JPA |
+| **Architecture** | Microservices, REST APIs, Event-Driven Systems |
 | **DevOps & Cloud** | Docker, Kubernetes, Jenkins, AWS (EC2, S3, RDS), Linux |
 | **Databases** | MySQL, PostgreSQL, SQL Server, MongoDB |
-| **Tools & Platforms** | Git, Maven, Apache Kafka, Postman, Swagger |
+| **Tools** | Git, Maven, Kafka, Postman, Swagger |
 
 </div>
 
 ---
 
-## 💼 **Professional Experience**
+## 💼 Professional Experience
 
-### **Senior Software Developer**
-**Envision Enterprise Solutions** | *January 2021 – Present*
+### 🏢 Envision Enterprise Solutions  
+**Senior Software Developer**  
+📅 *Jan 2021 – Present*
 
-- **System Architecture:** Designed and developed scalable microservices handling 10K+ daily transactions
-- **DevOps Implementation:** Reduced deployment time by 40% through automated CI/CD pipelines
-- **Containerization:** Implemented Docker and Kubernetes for high availability and efficient resource utilization
-- **Performance Optimization:** Improved database query response time by 35%
-- **Team Collaboration:** Led cross-functional Agile teams to deliver enterprise solutions
-
----
-
-## 🏆 **Key Projects**
-
-### **Container Freight Station (CFS)**
-*January 2024 – Present*
-
-**Technology Stack:** Java | Spring Boot | Microservices | Docker | Kubernetes | SQL Server | Jenkins
-
-**Project Overview:** Enterprise-level freight management system with real-time tracking capabilities.
-
-**Key Contributions:**
-- Developed 6+ independent microservices using Spring Boot
-- Integrated GPS/IoT devices for real-time cargo tracking
-- Automated billing system reducing manual processing by 60%
-- Implemented containerized deployment with Docker and Kubernetes
-- Established Jenkins CI/CD pipelines for automated deployments
+- Designed and developed **scalable microservices** handling **10K+ daily transactions**
+- Built **secure REST APIs** using Spring Boot and Spring Security
+- Reduced deployment time by **40%** using **Jenkins CI/CD pipelines**
+- Implemented **Docker & Kubernetes** for high availability and scalability
+- Optimized SQL queries, improving performance by **35%**
+- Collaborated with cross-functional Agile teams to deliver enterprise solutions
 
 ---
 
-### **Container Terminal Operating System (CTOS)**
-*January 2023 – January 2024*
+## 🚀 Key Projects
 
-**Technology Stack:** Java | Spring Boot | MySQL | Docker | Jenkins | Vue.js
+### 📦 Container Freight Station (CFS)
+📅 *Jan 2024 – Present*
 
-**Project Overview:** Terminal management system optimizing freight operations and scheduling.
+**Tech Stack:** Java, Spring Boot, Microservices, Docker, Kubernetes, SQL Server, Jenkins  
 
-**Key Contributions:**
-- Enhanced monolithic Spring Boot application for improved performance
-- Optimized database schema, improving query performance by 45%
-- Implemented comprehensive RESTful API documentation
-- Reduced deployment failures by 70% through DevOps practices
-- Improved system reliability through proactive monitoring
+**Overview:**  
+Enterprise freight management system with **real-time container tracking and automated billing**.
+
+**Highlights:**
+- Developed **6+ independent microservices**
+- Integrated **GPS/IoT** for live cargo tracking
+- Automated billing system, reducing manual effort by **60%**
+- Containerized services using Docker & Kubernetes
+- Implemented CI/CD pipelines for zero-downtime deployments
 
 ---
 
-## 📊 **Technical Metrics & Achievements**
+### 🚢 Container Terminal Operating System (CTOS)
+📅 *Jan 2023 – Jan 2024*
+
+**Tech Stack:** Java, Spring Boot, MySQL, Docker, Jenkins, Vue.js  
+
+**Overview:**  
+Terminal operations platform optimizing **freight scheduling and resource utilization**.
+
+**Highlights:**
+- Enhanced monolithic Spring Boot application performance
+- Improved database query performance by **45%**
+- Created well-documented REST APIs using Swagger
+- Reduced deployment failures by **70%**
+- Improved system reliability through monitoring & logging
+
+---
+
+## 📊 Performance & Impact
 
 <div align="center">
 
-| Metric | Target | Achievement |
-|--------|--------|-------------|
-| **Code Coverage** | ≥ 80% | 85%+ |
-| **API Response Time** | < 300ms | < 200ms |
-| **System Availability** | 99.5% | 99.9% |
-| **Deployment Frequency** | Weekly | Daily |
-| **Container Adoption** | 80% | 100% |
+| Metric | Result |
+|------|-------|
+| API Response Time | **< 200ms** |
+| System Availability | **99.9%** |
+| Code Coverage | **85%+** |
+| Deployment Frequency | **Daily** |
+| Container Adoption | **100%** |
 
 </div>
 
 ---
 
-## 🎯 **Professional Objectives**
+## 🎯 Career Objective
 
-Seeking challenging opportunities as a **Software Developer/Backend Engineer** with focus on:
+Looking for **Backend / Software Developer** roles where I can:
 
-- **Backend Development:** Java, Spring Boot, Microservices
-- **System Architecture:** Scalable, high-performance solutions
-- **Cloud & DevOps:** Containerization, CI/CD, Cloud Infrastructure
-- **Technical Leadership:** Mentoring, code reviews, best practices
+- Build **highly scalable backend systems**
+- Design **robust microservices architectures**
+- Work on **cloud & DevOps-driven environments**
+- Contribute as a **technical problem solver and mentor**
 
-*Available for immediate joining and willing to relocate based on opportunity.*
-
----
-
-## 📚 **Education & Certifications**
-
-### **Bachelor of Technology in Mechanical Engineering**
-Jogaiah Institute of Technologies and Sciences, Palakollu | *Graduated: May 2022*
-
-### **Professional Certifications**
-- Java Certification (HackerRank)
-- Spring Boot & Microservices (Hands-on Projects)
-- Docker & Kubernetes (Practical Implementation)
-- AWS Cloud Fundamentals (Self-Directed Learning)
+📌 **Immediate Joiner | Open to Relocation**
 
 ---
 
-## 📞 **Contact Information**
+## 🎓 Education & Certifications
+
+### 🎓 Bachelor of Technology – Mechanical Engineering  
+**Jogaiah Institute of Technologies and Sciences**, Palakollu  
+📅 *Graduated: May 2022*
+
+### 📜 Certifications
+- Java (HackerRank)
+- Spring Boot & Microservices (Hands-on)
+- Docker & Kubernetes (Practical)
+- AWS Cloud Fundamentals
+
+---
+
+## 📞 Contact
 
 <div align="center">
 
-| Contact Method | Details |
-|---------------|---------|
-| **Email** | rakeshpatoju113@gmail.com |
-| **Phone** | +91 8501941570 |
-| **LinkedIn** | [linkedin.com/in/rakesh-patoju-847b88179](https://linkedin.com/in/rakesh-patoju-847b88179) |
-| **GitHub** | [github.com/rakesh-patoju](https://github.com/rakesh-patoju) |
-| **Location** | Hyderabad, Telangana, India |
+📧 **rakeshpatoju113@gmail.com**  
+📱 **+91 8501941570**  
+🔗 [LinkedIn](https://linkedin.com/in/rakesh-patoju-847b88179)  
+💻 [GitHub](https://github.com/rakesh-patoju)
 
 </div>
 
@@ -150,7 +156,7 @@ Jogaiah Institute of Technologies and Sciences, Palakollu | *Graduated: May 2022
 
 <div align="center">
 
-*Last Updated: January 2024*  
-*"Building scalable systems with clean architecture and efficient deployment strategies."*
+✨ *“Building scalable systems with clean architecture and efficient deployment.”*  
+📅 Last Updated: **January 2024**
 
 </div>
