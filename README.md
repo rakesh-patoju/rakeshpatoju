@@ -1,7 +1,7 @@
 <!-- ===================== PROFILE HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=260&section=header&text=Rakesh%20Patoju&fontSize=52&fontColor=ffffff&desc=Senior%20Software%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descSize=20&descAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:0d1117,100:1f6feb&text=Rakesh%20Patoju&fontSize=54&fontColor=ffffff&desc=Senior%20Software%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Microservices&descSize=18&descAlignY=70" />
 
 ### 🚀 Senior Software Developer | Java | Spring Boot | Microservices
 
