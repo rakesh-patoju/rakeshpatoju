@@ -116,7 +116,7 @@ A terminal operations platform designed to optimize freight scheduling, resource
 💻 [GitHub](https://github.com/rakesh-patoju)
 
 </div>
----
+
 <div align="center">
 
 ✨ *“Delivering scalable, high-performance backend systems with clean architecture and streamlined deployment pipelines.”*
