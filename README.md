@@ -3,8 +3,7 @@
   
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,100:1f6feb&text=Rakesh%20Patoju&fontSize=52&fontColor=ffffff&desc=Software%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Microservices&descSize=18&descAlignY=68" />
 
-📍 Hyderabad, India • 💼 Immediate Joiner  
-
+📍 Hyderabad, India • 💼 Open to Relocation | Immediate Joiner
 📧 **rakeshpatoju113@gmail.com** • 📱 **+91 8501941570**
 
 </div>
@@ -48,71 +47,47 @@ Passionate about implementing CI/CD pipelines and DevOps best practices to strea
 
 ## 🚀 Key Projects
 
-### 📦 Container Freight Station (CFS)
-📅 *Jan 2024 – Present*
+## 📦 Container Freight Station (CFS)
 
-**Tech Stack:** Java, Spring Boot, Microservices, Docker, Kubernetes, SQL Server, Jenkins  
+📅 Jan 2024 – Present
+**Tech Stack**: Java, Spring Boot, Microservices, Docker, Kubernetes, SQL Server, Jenkins
 
-**Overview:**  
-Enterprise freight management system with **real-time container tracking and automated billing**.
+**Overview**:
+An enterprise-grade freight management system enabling real-time container tracking and automated billing for faster, error-free operations.
 
-**Highlights:**
-- Developed **6+ independent microservices**
-- Integrated **GPS/IoT** for live cargo tracking
-- Automated billing system, reducing manual effort by **60%**
-- Containerized services using Docker & Kubernetes
-- Implemented CI/CD pipelines for zero-downtime deployments
+**Highlights**:
+- Designed and implemented multiple independent microservices for modular and scalable operations.
+- Integrated IoT/GPS tracking to provide live updates on cargo location and status.
+- Automated the billing workflow, minimizing manual effort and reducing errors.
+- Containerized all services using Docker & Kubernetes for seamless scalability and high availability.
+- Established CI/CD pipelines for smooth, zero-downtime deployments.
 
----
+## 🚢 Container Terminal System (CTOS)
 
-### 🚢 Container Terminal Operating System (CTOS)
-📅 *Jan 2023 – Jan 2024*
+📅 Jan 2023 – Jan 2024
+**Tech Stack**: Java, Spring Boot, MySQL, Docker, Jenkins, Vue.js
 
-**Tech Stack:** Java, Spring Boot, MySQL, Docker, Jenkins, Vue.js  
+**Overview**:
+A terminal operations platform designed to optimize freight scheduling, resource allocation, and overall operational efficiency.
 
-**Overview:**  
-Terminal operations platform optimizing **freight scheduling and resource utilization**.
-
-**Highlights:**
-- Enhanced monolithic Spring Boot application performance
-- Improved database query performance by **45%**
-- Created well-documented REST APIs using Swagger
-- Reduced deployment failures by **70%**
-- Improved system reliability through monitoring & logging
-
----
+**Highlights**:
+- Enhanced performance of a legacy Spring Boot application, improving response times and reliability.
+- Optimized database queries, resulting in faster and more efficient data processing.
+- Developed well-documented RESTful APIs with Swagger for easy integration.
+- Implemented CI/CD workflows, reducing deployment failures significantly.
+- Strengthened system observability with monitoring, logging, and alerts, improving overall reliability.
 
 ## 📊 Performance & Impact
 
-<div align="center">
-
-| Metric | Result |
-|------|-------|
-| API Response Time | **< 200ms** |
-| System Availability | **99.9%** |
-| Code Coverage | **85%+** |
-| Deployment Frequency | **Daily** |
-| Container Adoption | **100%** |
-
-</div>
-
----
-
-## 🎯 Career Objective
-
-Looking for **Backend / Software Developer** roles where I can:
-
-- Build **highly scalable backend systems**
-- Design **robust microservices architectures**
-- Work on **cloud & DevOps-driven environments**
-- Contribute as a **technical problem solver and mentor**
-
-📌 **Immediate Joiner | Open to Relocation**
+- **API Response Time**: Maintained consistently under 200ms for high-traffic services.
+- **System Availability**: Achieved 99.9% uptime, ensuring reliable operations.
+- **Code Quality & Testing**: Maintained 85%+ code coverage through unit and integration tests.
+- **Deployment Efficiency**: Enabled daily deployments using automated CI/CD pipelines.
+- **Containerization**: Fully containerized applications (100% adoption) using Docker & Kubernetes for scalability and high availability.
 
 ---
 
 ## 🎓 Education & Certifications
-
 ### 🎓 Bachelor of Technology – Mechanical Engineering  
 **Jogaiah Institute of Technologies and Sciences**, Palakollu  
 📅 *Graduated: May 2022*
@@ -126,21 +101,16 @@ Looking for **Backend / Software Developer** roles where I can:
 ---
 
 ## 📞 Contact
-
 <div align="center">
-
 📧 **rakeshpatoju113@gmail.com**  
 📱 **+91 8501941570**  
-🔗 [LinkedIn](https://linkedin.com/in/rakesh-patoju-847b88179)  
+🔗 [LinkedIn](https://www.linkedin.com/in/rakesh-patoju-847b88179)  
 💻 [GitHub](https://github.com/rakesh-patoju)
-
 </div>
-
 ---
-
 <div align="center">
 
-✨ *“Building scalable systems with clean architecture and efficient deployment.”*  
-📅 Last Updated: **January 2024**
+✨ *“Delivering scalable, high-performance backend systems with clean architecture and streamlined deployment pipelines.”*
+📅 Last Updated: **January 2026**
 
 </div>
