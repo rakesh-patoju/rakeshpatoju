@@ -19,15 +19,15 @@ Passionate about implementing CI/CD pipelines and DevOps best practices to strea
 
 ---
 
-🛠️ Technical Expertise
+## 🛠️ Technical Expertise
 
-- Programming Languages: Java (8, 11, 17), JavaScript, SQL
-- Frameworks & Libraries: Spring Boot, Spring MVC, Spring Security, Hibernate/JPA, Lombok
-- Architecture & Design: Microservices, RESTful APIs, Event-Driven Architecture, Clean & Scalable Design
-- Cloud & DevOps: AWS (EC2, S3, RDS, Lambda), Docker, Kubernetes, Jenkins, CI/CD Pipelines, Linux
-- Databases: MySQL, PostgreSQL, SQL Server, MongoDB, Redis
-- Messaging & Integration: Kafka, RabbitMQ, REST & SOAP Web Services
-- Tools & Utilities: Git, Maven, Gradle, Postman, Swagger, IntelliJ IDEA, SonarQube
+- **Programming Languages**: Java (8, 11, 17), JavaScript, SQL
+- **Frameworks & Libraries**: Spring Boot, Spring MVC, Spring Security, Hibernate/JPA, Lombok
+- **Architecture & Design**: Microservices, RESTful APIs, Event-Driven Architecture, Clean & Scalable Design
+- **Cloud & DevOps**: AWS (EC2, S3, RDS, Lambda), Docker, Kubernetes, Jenkins, CI/CD Pipelines, Linux
+- **Databases**: MySQL, PostgreSQL, SQL Server, MongoDB, Redis
+- **Messaging & Integration**: Kafka, RabbitMQ, REST & SOAP Web Services
+- **Tools & Utilities**: Git, Maven, Gradle, Postman, Swagger, IntelliJ IDEA, SonarQube
 
 ---
 
@@ -37,12 +37,12 @@ Passionate about implementing CI/CD pipelines and DevOps best practices to strea
 **Senior Software Developer**  
 📅 *Jan 2021 – Present*
 
-- Designed and developed **scalable microservices** handling **10K+ daily transactions**
-- Built **secure REST APIs** using Spring Boot and Spring Security
-- Reduced deployment time by **40%** using **Jenkins CI/CD pipelines**
-- Implemented **Docker & Kubernetes** for high availability and scalability
-- Optimized SQL queries, improving performance by **35%**
-- Collaborated with cross-functional Agile teams to deliver enterprise solutions
+- Developed scalable microservices to handle high-traffic workloads efficiently, ensuring reliable system performance.
+- Created secure and well-documented RESTful APIs using Spring Boot and Spring Security, enabling smooth integration with client applications.
+- Streamlined deployment processes through automated CI/CD pipelines with Jenkins, reducing manual intervention and release risks.
+- Deployed applications in Docker containers and Kubernetes clusters, achieving improved availability and seamless scaling.
+- Tuned and optimized database queries for enhanced performance and faster response times.
+- Worked closely with cross-functional Agile teams to design and deliver enterprise-grade backend solutions aligned with business goals.
 
 ---
 
