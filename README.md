@@ -1,14 +1,9 @@
 <!-- ===================== PROFILE HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=0:0d1117,100:1f6feb&text=Rakesh%20Patoju&fontSize=56&fontColor=ffffff&desc=Senior%20Software%20Developer%0AJava%20%7C%20Spring%20Boot%20%7C%20Microservices%0AHyderabad%2C%20India%20%7C%20Immediate%20Joiner&descSize=18&descAlignY=70" />
-
+<img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=0:0d1117,100:1f6feb&text=Rakesh%20Patoju&fontSize=56&fontColor=ffffff&desc=Senior%20Software%20Developer%0AJava%20%7C%20Spring%20Boot%20%7C%20Microservices%0AHyderabad%2C%20India%20%7C%20Immediate%20Joiner&descSize=18&descAlignY=70"/>
 
 </div>
->
-
-
-
 ---
 
 ## 👨‍💻 About Me
