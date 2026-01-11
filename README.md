@@ -106,7 +106,7 @@ A terminal operations platform designed to optimize freight scheduling, resource
 ---
 
 ## 📞 Contact
-<div align="center">
+<div>
   
 📧 **rakeshpatoju113@gmail.com**  
   
@@ -117,8 +117,6 @@ A terminal operations platform designed to optimize freight scheduling, resource
 💻 [GitHub](https://github.com/rakesh-patoju)
 
 </div>
-
----
 
 ---
 
