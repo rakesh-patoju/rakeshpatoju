@@ -10,7 +10,7 @@
 
 ---
 
-## ☁️ Software Developer | Cloud-Native & Enterprise Applications
+## ☁️ Software Developer
 
 Experienced Software Developer with over 3+ years of delivering robust, high-performance backend solutions leveraging Java, Spring Boot, and Microservices architecture. Skilled in designing enterprise-grade applications, creating secure and scalable RESTful APIs, and building cloud-native, containerized systems.
 
@@ -50,6 +50,7 @@ Passionate about implementing CI/CD pipelines and DevOps best practices to strea
 ## 📦 Container Freight Station (CFS)
 
 📅 Jan 2024 – Present
+
 **Tech Stack**: Java, Spring Boot, Microservices, Docker, Kubernetes, SQL Server, Jenkins
 
 **Overview**:
@@ -65,6 +66,7 @@ An enterprise-grade freight management system enabling real-time container track
 ## 🚢 Container Terminal System (CTOS)
 
 📅 Jan 2023 – Jan 2024
+
 **Tech Stack**: Java, Spring Boot, MySQL, Docker, Jenkins, Vue.js
 
 **Overview**:
