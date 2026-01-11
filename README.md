@@ -11,33 +11,25 @@
 
 ---
 
-## 👨‍💻 About Me
+## ☁️ Software Developer | Cloud-Native & Enterprise Applications
 
-Experienced **Software Developer with 3+ years** of expertise in building **scalable, high-performance backend systems** using **Java, Spring Boot, and Microservices architecture**.
+Experienced Software Developer with over 3+ years of delivering robust, high-performance backend solutions leveraging Java, Spring Boot, and Microservices architecture. Skilled in designing enterprise-grade applications, creating secure and scalable RESTful APIs, and building cloud-native, containerized systems.
 
-I specialize in:
-- Designing **enterprise-grade applications**
-- Developing **secure RESTful APIs**
-- Building **cloud-native & containerized solutions**
-- Implementing **CI/CD pipelines and DevOps best practices**
-
-I enjoy solving real-world problems with **clean architecture, performance optimization, and automation**.
+Passionate about implementing CI/CD pipelines and DevOps best practices to streamline development and deployment. Adept at optimizing system performance, crafting maintainable architecture, and automating processes to solve complex, real-world problems efficiently. Always driven by the goal of combining innovation, reliability, and scalability in every solution.
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Technical Expertise
 
 <div align="center">
-
-| Category | Skills |
-|--------|-------|
-| **Languages** | Java (8, 11, 17), JavaScript |
-| **Frameworks** | Spring Boot, Spring MVC, Spring Security, Hibernate/JPA |
-| **Architecture** | Microservices, REST APIs, Event-Driven Systems |
-| **DevOps & Cloud** | Docker, Kubernetes, Jenkins, AWS (EC2, S3, RDS), Linux |
-| **Databases** | MySQL, PostgreSQL, SQL Server, MongoDB |
-| **Tools** | Git, Maven, Kafka, Postman, Swagger |
-
+Category	Technologies & Tools
+Programming Languages	Java (8, 11, 17), JavaScript, SQL
+Frameworks & Libraries	Spring Boot, Spring MVC, Spring Security, Hibernate/JPA, Lombok
+Architecture & Design	Microservices, RESTful APIs, Event-Driven Architecture, Clean & Scalable Design
+Cloud & DevOps	AWS (EC2, S3, RDS, Lambda), Docker, Kubernetes, Jenkins, CI/CD Pipelines, Linux
+Databases	MySQL, PostgreSQL, SQL Server, MongoDB, Redis
+Messaging & Integration	Kafka, RabbitMQ, REST & SOAP Web Services
+Tools & Utilities	Git, Maven, Gradle, Postman, Swagger, IntelliJ IDEA, SonarQube
 </div>
 
 ---
