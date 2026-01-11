@@ -108,10 +108,6 @@ A terminal operations platform designed to optimize freight scheduling, resource
 ## 📞 Contact
 <div>
   
-📧 **rakeshpatoju113@gmail.com**  
-  
-📱 **+91 8501941570**  
-  
 🔗 [LinkedIn](https://www.linkedin.com/in/rakesh-patoju-847b88179)  
 
 💻 [GitHub](https://github.com/rakesh-patoju)
@@ -123,6 +119,7 @@ A terminal operations platform designed to optimize freight scheduling, resource
 <div align="center">
 
 ✨ *“Delivering scalable, high-performance backend systems with clean architecture and streamlined deployment pipelines.”*
+
 📅 Last Updated: **January 2026**
 
 </div>
