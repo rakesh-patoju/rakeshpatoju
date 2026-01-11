@@ -1,18 +1,10 @@
 <!-- ===================== PROFILE HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:0d1117,100:1f6feb&text=Rakesh%20Patoju&fontSize=54&fontColor=ffffff&desc=Senior%20Software%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Microservices&descSize=18&descAlignY=70" />
-
-### 🚀 Senior Software Developer | Java | Spring Boot | Microservices
-
-📍 Hyderabad, India • 💼 Immediate Joiner  
-
-📧 **rakeshpatoju113@gmail.com** • 📱 **+91 8501941570**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rakesh-patoju-847b88179)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rakesh-patoju)
+<img src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:0d1117,100:1f6feb&text=Rakesh%20Patoju&fontSize=56&fontColor=ffffff&desc=Senior%20Software%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Microservices%0AHyderabad%2C%20India%20%7C%20Immediate%20Joiner&descSize=18&descAlignY=70" />
 
 </div>
+
 
 ---
 
