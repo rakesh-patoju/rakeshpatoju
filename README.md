@@ -1,9 +1,10 @@
 <!-- ===================== PROFILE HEADER ===================== -->
 <div align="center">
-  <a href="https://rakesh-patoju.github.io" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=280&color=0:0d1117,100:1f6feb&text=Rakesh%20Patoju&fontSize=56&fontColor=ffffff&desc=Software%20Developer%0AJava%2C%20Spring%20Boot%2C%20Microservices%0AHyderabad%2C%20India%20%7C%20Immediate%20Joiner&descSize=18&descAlignY=72" />
-  </a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=0:0d1117,100:1f6feb&text=Rakesh%20Patoju&fontSize=56&fontColor=ffffff&desc=Senior%20Software%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Microservices%0AHyderabad%2C%20India%20%7C%20Immediate%20Joiner&descSize=20&descAlignY=72" />
+
 </div>
+
 
 ---
 
