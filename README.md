@@ -33,7 +33,7 @@ Passionate about implementing CI/CD pipelines and DevOps best practices to strea
 ## 💼 Professional Experience
 
 ### 🏢 Envision Enterprise Solutions  
-**Senior Software Developer**  
+**Software Developer**  
 📅 *Jan 2021 – Present*
 
 - Developed scalable microservices to handle high-traffic workloads efficiently, ensuring reliable system performance.
@@ -94,6 +94,8 @@ A terminal operations platform designed to optimize freight scheduling, resource
 **Jogaiah Institute of Technologies and Sciences**, Palakollu  
 📅 *Graduated: May 2022*
 
+---
+
 ### 📜 Certifications
 - Java (HackerRank)
 - Spring Boot & Microservices (Hands-on)
@@ -104,10 +106,15 @@ A terminal operations platform designed to optimize freight scheduling, resource
 
 ## 📞 Contact
 <div align="center">
+  
 📧 **rakeshpatoju113@gmail.com**  
+  
 📱 **+91 8501941570**  
+  
 🔗 [LinkedIn](https://www.linkedin.com/in/rakesh-patoju-847b88179)  
+
 💻 [GitHub](https://github.com/rakesh-patoju)
+
 </div>
 ---
 <div align="center">
